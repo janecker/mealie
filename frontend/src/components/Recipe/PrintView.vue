@@ -70,6 +70,7 @@ export default {
   body,
   html {
     margin-top: -40px !important;
+    background-image:"/static/recipe_background.jpg";
   }
 }
 
