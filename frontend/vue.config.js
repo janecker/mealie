@@ -11,6 +11,7 @@ module.exports = {
       "/api": {
         target: process.env.VUE_APP_API_BASE_URL,
         secure: false,
+        disableHostCheck: true,   // That solved it
       },
     },
   },

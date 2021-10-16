@@ -92,6 +92,8 @@ import {
   mdiMinus,
   mdiWindowClose,
   mdiFolderZipOutline,
+  mdiStove,
+  mdiSilverwareForkKnife,
 } from "@mdi/js";
 
 const icons = {
@@ -178,6 +180,8 @@ const icons = {
   webhook: mdiWebhook,
   windowClose: mdiWindowClose,
   zip: mdiFolderZipOutline,
+  stove: mdiStove,
+  yield: mdiSilverwareForkKnife,
 
   // Crud
   createAlt: mdiPlus,
